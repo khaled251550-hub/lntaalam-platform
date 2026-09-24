@@ -1,0 +1,3 @@
+- [Capacitor package installation](capacitor-installation.md) — Capacitor 7 installs successfully with the workspace tar override.
+- [AI provider fallback](ai-provider-fallback.md) — Keep local educational content available when the provider returns credit or quota errors.
+- [Curriculum source verification](curriculum-source-verification.md) — Public textbook folders are provisional; verify academic year and rights before importing pages or answers.
